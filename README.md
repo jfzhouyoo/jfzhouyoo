@@ -3,7 +3,7 @@
 - 👀 I’m interested in Dialogue System
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me: jfzhou@tju.edu.cn or jfzhou.mail@gmail.com
+- 📫 How to reach me: jfzhou.mail@gmail.com
 
 <!---
 jfzhouyoo/jfzhouyoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
